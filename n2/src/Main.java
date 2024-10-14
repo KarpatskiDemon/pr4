@@ -35,7 +35,7 @@ public class Main {
 
         System.out.println("Кількість речень (do-while): " + c);
 
-        // Закриття сканера
+//end
         scanner.close();
     }
 }
